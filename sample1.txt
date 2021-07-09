@@ -1,4 +1,6 @@
 git revert commit 1
 
+stash tracked file
+
 this is from devlop
 change in sample1.txt
